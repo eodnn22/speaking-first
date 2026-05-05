@@ -1,4 +1,4 @@
-const API = "http://localhost:3000"
+const API = "https://speaking-first.onrender.com"
 
 // CADASTRO
 async function register() {
